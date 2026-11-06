@@ -14,7 +14,7 @@
 
 ---
 
-> **Demo availability:** the backend runs on Google Cloud Run using **Google Cloud free-trial credits**, which end on **[DATE]**.
+> **Demo availability:** the backend runs on Google Cloud Run using **Google Cloud free-trial credits**, which end on **4 February 2027**.
 > After that date the website still opens, but sign-in and analyses stop working.
 > If the demo is unavailable, please contact me and I can show it live or walk you through it.
 
