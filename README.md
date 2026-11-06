@@ -25,7 +25,7 @@
 
    | Email | Password |
    | --- | --- |
-   | `[user@email.com]` | `[123456]` |
+   | `user@email.com` | `123456` |
 
 3. Things to try:
    - **Dashboard:** click a district on the map and see the suitability class for 47 crops. Pick a crop under *Target Crop Layer* to colour the whole of Sabah.
